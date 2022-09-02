@@ -1,0 +1,35 @@
+:root {
+  /* ---------- Розміри екрану і сайту -------------*/
+  // Ширина екрану
+  --maxWidthWrapper: 1200px;
+
+  // Ширина обмежуючого контейнера - обгортки
+  --maxWidthMainContainer: 1062px;
+
+  /* ---------- Кольори -------------*/
+  // Колір фону
+  --bgColor: rgba(240, 240, 240, 1);
+
+  // Колір тексту
+  --mainTextColor: rgba(98, 98, 98, 1);
+  --addTextColor: rgba(180, 173, 158, 1);
+
+  /* ---------- Шрифти -------------*/
+  // Основний шрифт
+  --mainFontFamily: "Playfair Display", serif;
+
+  // Додатковий шрифт
+  --addFontFamily: "Ubuntu", sans-serif;
+
+  // Основний розмір шрифту
+  --mainFontsize: 14px;
+
+  // Додатковий розмір шрифту
+  --addFontsize: 20px;
+
+  // Розмір шрифту заголовків
+  --fontsizeTitle: 30px;
+
+  // Розмір шрифту підзаголовків
+  --fontsizeSubtitle: 20px;
+}
